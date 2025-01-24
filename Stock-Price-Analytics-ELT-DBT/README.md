@@ -76,7 +76,8 @@ This project builds an end-to-end data analytics system to process, transform, a
 
 
 ---
+#### **Dashboard**
 
-
+![unnamed](https://github.com/user-attachments/assets/62256055-6337-47a5-96b6-2383342c1298)
 
 
